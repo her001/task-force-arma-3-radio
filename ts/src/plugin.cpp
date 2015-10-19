@@ -30,7 +30,10 @@
 #include "dspfilters/Butterworth.h"
 #include "sqlite3/sqlite3.h"
 #include "simpleSource/SimpleComp.h"
-#include <wininet.h>
+
+#ifdef WIN32
+	#include <wininet.h>
+#endif
 
 #include "RadioEffect.h"
 #include "Clunk.h"

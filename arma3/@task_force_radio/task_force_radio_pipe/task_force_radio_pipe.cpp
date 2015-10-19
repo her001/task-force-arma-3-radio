@@ -1,7 +1,9 @@
 ﻿// task_force_radio_pipe.cpp: определяет экспортированные функции для приложения DLL.
 //
 
-#include "stdafx.h"
+#ifdef WIN32
+	#include "stdafx.h"
+#endif
 
 DWORD dwMessageMode = PIPE_READMODE_MESSAGE;
 
