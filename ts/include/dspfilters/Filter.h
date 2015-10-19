@@ -36,11 +36,11 @@ THE SOFTWARE.
 #ifndef DSPFILTERS_FILTER_H
 #define DSPFILTERS_FILTER_H
 
-#include "DspFilters/Common.h"
-#include "DspFilters/MathSupplement.h"
-#include "DspFilters/Params.h"
-#include "DspFilters/State.h"
-#include "DspFilters/Types.h"
+#include "dspfilters/Common.h"
+#include "dspfilters/MathSupplement.h"
+#include "dspfilters/Params.h"
+#include "dspfilters/State.h"
+#include "dspfilters/Types.h"
 
 namespace Dsp {
 

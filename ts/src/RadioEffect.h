@@ -1,5 +1,5 @@
-#include "DspFilters\Butterworth.h"
-#include "DspFilters\RBJ.h"
+#include "dspfilters/Butterworth.h"
+#include "dspfilters/RBJ.h"
 #include <math.h>
 #define SAMPLE_RATE 48000
 

@@ -36,11 +36,11 @@ THE SOFTWARE.
 #ifndef DSPFILTERS_CASCADE_H
 #define DSPFILTERS_CASCADE_H
 
-#include "DspFilters/Common.h"
-#include "DspFilters/Biquad.h"
-#include "DspFilters/Filter.h"
-#include "DspFilters/Layout.h"
-#include "DspFilters/MathSupplement.h"
+#include "dspfilters/Common.h"
+#include "dspfilters/Biquad.h"
+#include "dspfilters/Filter.h"
+#include "dspfilters/Layout.h"
+#include "dspfilters/MathSupplement.h"
 
 namespace Dsp {
 

@@ -27,9 +27,9 @@
 #include "public_rare_definitions.h"
 #include "ts3_functions.h"
 #include "plugin.h"
-#include "DspFilters\Butterworth.h"
-#include "sqlite3\sqlite3.h"
-#include "simpleSource\SimpleComp.h"
+#include "dspfilters/Butterworth.h"
+#include "sqlite3/sqlite3.h"
+#include "simpleSource/SimpleComp.h"
 #include <wininet.h>
 
 #include "RadioEffect.h"

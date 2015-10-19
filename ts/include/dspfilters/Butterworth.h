@@ -36,11 +36,11 @@ THE SOFTWARE.
 #ifndef DSPFILTERS_BUTTERWORTH_H
 #define DSPFILTERS_BUTTERWORTH_H
 
-#include "DspFilters/Common.h"
-#include "DspFilters/Cascade.h"
-#include "DspFilters/Design.h"
-#include "DspFilters/Filter.h"
-#include "DspFilters/PoleFilter.h"
+#include "dspfilters/Common.h"
+#include "dspfilters/Cascade.h"
+#include "dspfilters/Design.h"
+#include "dspfilters/Filter.h"
+#include "dspfilters/PoleFilter.h"
 
 namespace Dsp {
 
